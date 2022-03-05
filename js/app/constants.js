@@ -21,7 +21,7 @@ var Constants = {
 	SCOPE  :  "learner:read,learner:write",
 	OCODE_DATA  :  "state1",
 	SOURCE_FOLDER  :  "",
-	MAIN_PAGE  :  "oauthredirect.html",
+	MAIN_PAGE  :  "index.html",
 	START_PAGE : "index.html",
 	API_VERSION: "primeapi/v2/",
 	DEFAULT_LO_TYPE : "course"
